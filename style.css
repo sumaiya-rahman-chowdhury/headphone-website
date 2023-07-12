@@ -127,9 +127,7 @@ footer{
     margin-top: 30px;
     color: white;
     text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    
 }
 .footer-para{
     margin: 10px 0px;
@@ -137,4 +135,20 @@ footer{
 footer h4{
     margin-bottom: 10px;
 }
-.footer-para-div{}
+.footer-para-div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 40px 0px 40px 0px;
+
+}
+.margin-element{
+    margin: 170px 0px 70px 0px;
+}
+.txt-aling{
+    padding-top: 60px;
+    text-decoration: underline;
+}
+.footer-element{
+    
+}
