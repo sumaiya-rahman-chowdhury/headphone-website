@@ -1,0 +1,140 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.backround{
+    width: 100%;
+    height: 100vh;
+    background-color:#f1dce1;
+     background-size: 50%;
+     background-repeat: no-repeat;
+     background-position: 90% 100%;
+     background-image: url('images/jay-z-attends-2020-roc-nation-the-brunch-on-january-25-2020-news-photo-1614025570_-fotor-bg-remover-202307119335.png');
+     display: flex;
+     /* justify-content: center; */
+     align-items: center;
+
+}
+.backround-title{
+    text-align: center;
+    padding-left: 200px;
+    margin-bottom: 30px;
+
+}
+.title{
+    font-size: 50px;
+    color: #6c6c48;
+    text-align: center;
+}
+.txt-hiphop{
+    font-size: 70px;
+    color: #38241b;
+    text-shadow: 5px 5px #f1dce1;
+    margin-bottom: 30px;
+}
+.primary-clr{
+    color: #6c6c48;
+}
+.btn{
+    padding: 12px 23px;
+    
+    border-radius: 5px;
+    border: 0px;
+    color: white;
+    background-color: #6c6c48;;
+}
+.paragraph{
+    margin:20px 0px;
+}
+main{
+    width: 90%;
+    margin: auto;
+}
+.catagory-product{
+    margin: 70px 0px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.center-txt{
+    text-align: center;
+}
+.product-catagory{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    text-align: center;
+}
+.btn-cart{
+    padding: 3px 5px;
+    margin: 5px;
+    font-size: 10px;
+}
+.product-image{
+    width:100%;
+    height: 600px;
+}
+.product-details-description{
+    width: 40%;
+   
+}
+.product-details{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    gap: 160px;
+    align-items: center;
+    
+}
+.product-details-description h1{
+    color: #38241b;
+}
+.detailed-product{
+    height: 100vh;
+}
+.product-details-description h2{
+    margin: 20px 0px 20px 0px
+}
+.product-details-description p{
+
+}
+.catagory-product{
+height: 100vh;
+}
+.delivery{
+    margin-top: 100px;
+    /* height: 100vh; */
+}
+li{
+    font-size: 30px;
+    font-weight: bold;
+}
+.delivery-service{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+    height:60vh;
+    /* background-color:#a67152 ; */
+    margin-top: 30px;
+    border-radius: 10px;
+}
+footer{
+    width: 100%;
+    height: 40vh;
+    background-color: black;
+    margin-top: 30px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-para{
+    margin: 10px 0px;
+}
+footer h4{
+    margin-bottom: 10px;
+}
+.footer-para-div{}
